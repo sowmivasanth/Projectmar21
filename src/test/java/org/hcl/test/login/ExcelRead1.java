@@ -22,6 +22,7 @@ public class ExcelRead1 {
 					Cell cell = row.getCell(j);
 					String s = cell.getStringCellValue();
 					System.out.println(s);
+					System.out.println(cell);
 	}
  }		    
 }
