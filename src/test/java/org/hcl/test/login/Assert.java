@@ -18,5 +18,22 @@ private void google() {
 	System.out.println("hi google");
 
 }
-
+public void meth() {
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+}
 }
