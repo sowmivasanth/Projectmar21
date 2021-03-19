@@ -10,4 +10,6 @@ public void tc0() {
 	org.junit.Assert.assertEquals(s, "cdefr");
 	System.out.println("AssertFal");
 }
+ public void priya() {
+}
 }
