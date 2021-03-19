@@ -18,4 +18,13 @@ public void tc0() {
 		System.out.println("lock out");
 	
 }
+ private void get() {
+System.out.println("enter the valuues");
+}
+ private void get1() {
+	 System.out.println("enter the valuues");
+	 }
+
+ 
+
 }
