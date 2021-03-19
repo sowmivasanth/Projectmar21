@@ -11,5 +11,11 @@ public void tc0() {
 	System.out.println("AssertFal");
 }
  public void priya() {
+	 
+}
+ public void getInstance() {
+	
+		System.out.println("lock out");
+	
 }
 }
