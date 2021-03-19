@@ -12,4 +12,11 @@ public void tc0() {
 }
  public void priya() {
 }
+
+private void google() {
+	// TODO Auto-generated method stub
+	System.out.println("hi google");
+
+}
+
 }
