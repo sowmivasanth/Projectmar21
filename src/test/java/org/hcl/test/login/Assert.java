@@ -14,17 +14,43 @@ public void tc0() {
 	 
 }
  public void getInstance() {
-	
+		
 		System.out.println("lock out");
 	
 }
- private void get() {
+private void get() {
 System.out.println("enter the valuues");
 }
- private void get1() {
+private void get1() {
 	 System.out.println("enter the valuues");
 	 }
 
- 
+
+
+
+
+private void google() {
+	// TODO Auto-generated method stub
+	System.out.println("hi google");
+
+}
+public void meth() {
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+	System.out.println("sdfghj");
+}
 
 }
